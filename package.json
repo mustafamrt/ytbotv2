@@ -1,13 +1,13 @@
 {
-  "name": "cowboy",
+  "name": "Narcos,
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
-  "author": "Chrome",
-  "license": "ISC",
+  "author": "MustafaMert"
+  "license": "MIT
   "dependencies": {
     "axios": "^0.21.0",
     "chalk": "^4.1.0",
