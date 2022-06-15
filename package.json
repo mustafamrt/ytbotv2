@@ -1,5 +1,5 @@
 {
-  "name": "Narcos,
+  "name": "Narcos",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "node index.js"
   },
   "author": "MustafaMert"
-  "license": "MIT
+  "license": "MIT"
   "dependencies": {
     "axios": "^0.21.0",
     "chalk": "^4.1.0",
