@@ -4,7 +4,7 @@ const ayarlar = require('./ayarlar.json');
 const { Client, Util } = require('discord.js');
 require('./util/eventLoader.js')(client);
 const fs = require('fs');
-const  db  = require('wio.db')
+const  db  = require('nrc.db')
 
 
 var prefix = ayarlar.prefix;
